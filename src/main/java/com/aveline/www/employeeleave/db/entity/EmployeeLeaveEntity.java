@@ -1,4 +1,4 @@
-package com.pratik.www.employeeleave.db.entity;
+package com.aveline.www.employeeleave.db.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;

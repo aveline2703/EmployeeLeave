@@ -1,4 +1,4 @@
-package com.pratik.www.employeeleave.model;
+package com.aveline.www.employeeleave.model;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

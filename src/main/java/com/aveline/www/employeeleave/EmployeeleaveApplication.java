@@ -1,4 +1,4 @@
-package com.pratik.www.employeeleave;
+package com.aveline.www.employeeleave;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

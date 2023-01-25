@@ -1,6 +1,6 @@
-package com.pratik.www.employeeleave.db.repository;
+package com.aveline.www.employeeleave.db.repository;
 
-import com.pratik.www.employeeleave.db.entity.EmployeeLeaveEntity;
+import com.aveline.www.employeeleave.db.entity.EmployeeLeaveEntity;
 import org.springframework.data.couchbase.repository.CouchbaseRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,8 +1,8 @@
-package com.pratik.www.employeeleave.service;
+package com.aveline.www.employeeleave.service;
 
-import com.pratik.www.employeeleave.db.entity.EmployeeLeaveEntity;
-import com.pratik.www.employeeleave.db.repository.EmployeeLeaveEntityRepository;
-import com.pratik.www.employeeleave.model.WorkHourRequest;
+import com.aveline.www.employeeleave.db.entity.EmployeeLeaveEntity;
+import com.aveline.www.employeeleave.db.repository.EmployeeLeaveEntityRepository;
+import com.aveline.www.employeeleave.model.WorkHourRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

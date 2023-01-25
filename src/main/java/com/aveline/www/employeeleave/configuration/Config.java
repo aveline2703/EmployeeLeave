@@ -1,4 +1,4 @@
-package com.pratik.www.employeeleave.configuration;
+package com.aveline.www.employeeleave.configuration;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
